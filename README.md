@@ -17,10 +17,13 @@ Saya adalah seorang Mahasiswa Ilmu Ekonomi yang tertarik dalam mengolah data men
 
 Berikut adalah beberapa proyek yang saya kerjakan:
 
-| Nama Proyek                  | Deskripsi Singkat                                   | Teknologi           | Link                             |
-|-----------------------------|----------------------------------------------------|---------------------|---------------------------------|
-| Analisis E-commerce Customer Behavior    | Melakukan analisis data transaksi untuk mengidentifikasi produk paling populer, kota dengan volume pembelian terbesar, serta tingkat kepuasan pelanggan. Hasil analisis ini digunakan sebagai dasar untuk memberikan rekomendasi strategi bisnis yang lebih efektif.| Python, Pandas | [Repo](https://github.com/Kalistafzh/Dimbimbing-Portofolio_DSF41.0/blob/main/Project%20EDA%20E-commerce%20Customer%20Behavior.ipynb) |
-| Introduction to Phyton     | Membuat program sederhana yang menginput data mahasiswa berupa nama, NIM, dan nilai. Program ini akan mengkategorikan nilai menjadi grade A, B, C, D, atau E menggunakan struktur percabangan if-elif-else untuk menentukan kategori nilai yang tepat.   | Python, Google colab| [Repo](https://github.com/Kalistafzh/Dimbimbing-Portofolio_DSF41.0/blob/main/Task%201%20introduction_python.ipynb)   |
+## Proyek Portofolio
+
+| Nama Proyek                          | Deskripsi Singkat                                                                                                              | Teknologi            | Link                                                                 |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------|
+| Analisis E-commerce Customer Behavior | Menganalisis data transaksi untuk menemukan produk paling populer, kota dengan pembelian tertinggi, dan tingkat kepuasan pelanggan. Hasilnya digunakan sebagai dasar rekomendasi strategi bisnis. | Python, Pandas       | [Lihat Proyek](https://github.com/Kalistafzh/Dimbimbing-Portofolio_DSF41.0/blob/main/Project%20EDA%20E-commerce%20Customer%20Behavior.ipynb) |
+| Introduction to Python               | Program sederhana yang menerima input data mahasiswa (nama, NIM, nilai), lalu mengkategorikan nilai ke dalam grade A–E menggunakan struktur if-elif-else.              | Python, Google Colab | [Lihat Proyek](https://github.com/Kalistafzh/Dimbimbing-Portofolio_DSF41.0/blob/main/Task%201%20introduction_python.ipynb)                      |
+| Project Presentation                 | Presentasi visual untuk menjelaskan hasil akhir yang telah dikerjakan selama mengikuti program DSF 41.0.                                                            | Canva                | ⚠️ *Link lokal tidak bisa diakses publik. Silakan upload file ke GitHub atau Google Drive terlebih dahulu.*      |
 
 
 ## Tools & Teknologi
