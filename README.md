@@ -20,7 +20,7 @@ Berikut adalah beberapa proyek yang saya kerjakan:
 | Nama Proyek                  | Deskripsi Singkat                                   | Teknologi           | Link                             |
 |-----------------------------|----------------------------------------------------|---------------------|---------------------------------|
 | Analisis E-commerce Customer Behavior    | Melakukan analisis data transaksi untuk mengidentifikasi produk paling populer, kota dengan volume pembelian terbesar, serta tingkat kepuasan pelanggan. Hasil analisis ini digunakan sebagai dasar untuk memberikan rekomendasi strategi bisnis yang lebih efektif.| Python, Pandas | [Repo](https://github.com/Kalistafzh/Dimbimbing-Portofolio_DSF41.0/blob/main/Project%20EDA%20E-commerce%20Customer%20Behavior.ipynb) |
-| Introduction to Phyton     | Membuat program sederhana yang menginput data mahasiswa berupa nama, NIM, dan nilai. Program ini akan mengkategorikan nilai menjadi grade A, B, C, D, atau E menggunakan struktur percabangan if-elif-else untuk menentukan kategori nilai yang tepat.   | Python, Google colab| [Repo](https://github.com/username/churn-prediction)   |
+| Introduction to Phyton     | Membuat program sederhana yang menginput data mahasiswa berupa nama, NIM, dan nilai. Program ini akan mengkategorikan nilai menjadi grade A, B, C, D, atau E menggunakan struktur percabangan if-elif-else untuk menentukan kategori nilai yang tepat.   | Python, Google colab| [Repo](https://github.com/Kalistafzh/Dimbimbing-Portofolio_DSF41.0/blob/main/Task%201%20introduction_python.ipynb)   |
 
 
 ## Tools & Teknologi
